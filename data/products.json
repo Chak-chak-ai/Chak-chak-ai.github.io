@@ -1,0 +1,1974 @@
+{
+  "schemaVersion": 1,
+  "fieldResolution": "Product fields are authoritative; shared descriptive and technical facts are resolved by groupFactsId from source-facts.json.",
+  "products": [
+    {
+      "number": "01",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ (0,55-1,1сСт) ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-СУ (0,55-1,1сСт) ПГ0,25",
+      "slug": "szh-ppo-25-1-6-su-055-11-pg025-01",
+      "groupId": "ppo25-pg025",
+      "execution": "СУ (0,55-1,1сСт)",
+      "viscosityCst": "0,55-1,1",
+      "priceRub": 64050,
+      "approvedCard": "ППО-25_ПГ0,25/01_СЖ-ППО-25-1,6-СУ (0,55-1,1сСт) ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/01_СЖ-ППО-25-1,6-СУ (0,55-1,1сСт) ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:2",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (0,55-1,1сСт)",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "02",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ (1,1-6,0сСт) ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-СУ (1,1-6,0сСт) ПГ0,25",
+      "slug": "szh-ppo-25-1-6-su-11-60-pg025-02",
+      "groupId": "ppo25-pg025",
+      "execution": "СУ (1,1-6,0сСт)",
+      "viscosityCst": "1,1-6,0",
+      "priceRub": 64050,
+      "approvedCard": "ППО-25_ПГ0,25/02_СЖ-ППО-25-1,6-СУ (1,1-6,0сСт) ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/02_СЖ-ППО-25-1,6-СУ (1,1-6,0сСт) ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:3",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (1,1-6,0сСт)",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "03",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ (6,0-60,0сСт) ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-СУ (6,0-60,0сСт) ПГ0,25",
+      "slug": "szh-ppo-25-1-6-su-60-600-pg025-03",
+      "groupId": "ppo25-pg025",
+      "execution": "СУ (6,0-60,0сСт)",
+      "viscosityCst": "6,0-60,0",
+      "priceRub": 64050,
+      "approvedCard": "ППО-25_ПГ0,25/03_СЖ-ППО-25-1,6-СУ (6,0-60,0сСт) ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/03_СЖ-ППО-25-1,6-СУ (6,0-60,0сСт) ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:4",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (6,0-60,0сСт)",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "04",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-ЛУЧ-03 ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-ЛУЧ-03 ПГ0,25",
+      "slug": "szh-ppo-25-1-6-luch-03-pg025-04",
+      "groupId": "ppo25-pg025",
+      "execution": "ЛУЧ-03",
+      "viscosityCst": null,
+      "priceRub": 97600,
+      "approvedCard": "ППО-25_ПГ0,25/04_СЖ-ППО-25-1,6-ЛУЧ-03 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/04_СЖ-ППО-25-1,6-ЛУЧ-03 ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:5",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ЛУЧ-03",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "05",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-ДИ-О-5 ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-ДИ-О-5 ПГ0,25",
+      "slug": "szh-ppo-25-1-6-di-o-5-pg025-05",
+      "groupId": "ppo25-pg025",
+      "execution": "ДИ-О-5",
+      "viscosityCst": null,
+      "priceRub": 97600,
+      "approvedCard": "ППО-25_ПГ0,25/05_СЖ-ППО-25-1,6-ДИ-О-5 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/05_СЖ-ППО-25-1,6-ДИ-О-5 ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:6",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ДИ-О-5",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "06",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ-ДИ-О-5 ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-СУ-ДИ-О-5 ПГ0,25",
+      "slug": "szh-ppo-25-1-6-su-di-o-5-pg025-06",
+      "groupId": "ppo25-pg025",
+      "execution": "СУ-ДИ-О-5",
+      "viscosityCst": null,
+      "priceRub": 125660,
+      "approvedCard": "ППО-25_ПГ0,25/06_СЖ-ППО-25-1,6-СУ-ДИ-О-5 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/06_СЖ-ППО-25-1,6-СУ-ДИ-О-5 ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:7",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-ДИ-О-5",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "07",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ-УСС-Б-70 ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-СУ-УСС-Б-70 ПГ0,25",
+      "slug": "szh-ppo-25-1-6-su-uss-b-70-pg025-07",
+      "groupId": "ppo25-pg025",
+      "execution": "СУ-УСС-Б-70",
+      "viscosityCst": null,
+      "priceRub": 125660,
+      "approvedCard": "ППО-25_ПГ0,25/07_СЖ-ППО-25-1,6-СУ-УСС-Б-70 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/07_СЖ-ППО-25-1,6-СУ-УСС-Б-70 ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:8",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-УСС-Б-70",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "08",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-ДИ-О-5-КУП-30 ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-ДИ-О-5-КУП-30 ПГ0,25",
+      "slug": "szh-ppo-25-1-6-di-o-5-kup-30-pg025-08",
+      "groupId": "ppo25-pg025",
+      "execution": "ДИ-О-5-КУП-30",
+      "viscosityCst": null,
+      "priceRub": 171776,
+      "approvedCard": "ППО-25_ПГ0,25/08_СЖ-ППО-25-1,6-ДИ-О-5-КУП-30 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/08_СЖ-ППО-25-1,6-ДИ-О-5-КУП-30 ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:9",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ДИ-О-5-КУП-30",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "09",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ-ДИ-О-5-КУП-30 ПГ0,25",
+      "model": "СЖ-ППО-25-1,6-СУ-ДИ-О-5-КУП-30 ПГ0,25",
+      "slug": "szh-ppo-25-1-6-su-di-o-5-kup-30-pg025-09",
+      "groupId": "ppo25-pg025",
+      "execution": "СУ-ДИ-О-5-КУП-30",
+      "viscosityCst": null,
+      "priceRub": 195200,
+      "approvedCard": "ППО-25_ПГ0,25/09_СЖ-ППО-25-1,6-СУ-ДИ-О-5-КУП-30 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,25/09_СЖ-ППО-25-1,6-СУ-ДИ-О-5-КУП-30 ПГ0,25.png",
+      "groupFactsId": "ppo25-pg025",
+      "sourceRefs": [
+        "registry-csv:10",
+        "docx-ppo25-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-ДИ-О-5-КУП-30",
+      "description": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "10",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ (0,55-1,1сСт) ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-СУ (0,55-1,1сСт) ПГ0,5",
+      "slug": "szh-ppo-25-1-6-su-055-11-pg05-10",
+      "groupId": "ppo25-pg05",
+      "execution": "СУ (0,55-1,1сСт)",
+      "viscosityCst": "0,55-1,1",
+      "priceRub": 58377,
+      "approvedCard": "ППО-25_ПГ0,5/10_СЖ-ППО-25-1,6-СУ (0,55-1,1сСт) ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/10_СЖ-ППО-25-1,6-СУ (0,55-1,1сСт) ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:11",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (0,55-1,1сСт)",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "11",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ (1,1-6,0сСт) ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-СУ (1,1-6,0сСт) ПГ0,5",
+      "slug": "szh-ppo-25-1-6-su-11-60-pg05-11",
+      "groupId": "ppo25-pg05",
+      "execution": "СУ (1,1-6,0сСт)",
+      "viscosityCst": "1,1-6,0",
+      "priceRub": 58377,
+      "approvedCard": "ППО-25_ПГ0,5/11_СЖ-ППО-25-1,6-СУ (1,1-6,0сСт) ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/11_СЖ-ППО-25-1,6-СУ (1,1-6,0сСт) ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:12",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (1,1-6,0сСт)",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "12",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ (6,0-60,0сСт) ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-СУ (6,0-60,0сСт) ПГ0,5",
+      "slug": "szh-ppo-25-1-6-su-60-600-pg05-12",
+      "groupId": "ppo25-pg05",
+      "execution": "СУ (6,0-60,0сСт)",
+      "viscosityCst": "6,0-60,0",
+      "priceRub": 58377,
+      "approvedCard": "ППО-25_ПГ0,5/12_СЖ-ППО-25-1,6-СУ (6,0-60,0сСт) ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/12_СЖ-ППО-25-1,6-СУ (6,0-60,0сСт) ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:13",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (6,0-60,0сСт)",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "13",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-ЛУЧ-03 ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-ЛУЧ-03 ПГ0,5",
+      "slug": "szh-ppo-25-1-6-luch-03-pg05-13",
+      "groupId": "ppo25-pg05",
+      "execution": "ЛУЧ-03",
+      "viscosityCst": null,
+      "priceRub": 87840,
+      "approvedCard": "ППО-25_ПГ0,5/13_СЖ-ППО-25-1,6-ЛУЧ-03 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/13_СЖ-ППО-25-1,6-ЛУЧ-03 ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:14",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ЛУЧ-03",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "14",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-ДИ-О-5 ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-ДИ-О-5 ПГ0,5",
+      "slug": "szh-ppo-25-1-6-di-o-5-pg05-14",
+      "groupId": "ppo25-pg05",
+      "execution": "ДИ-О-5",
+      "viscosityCst": null,
+      "priceRub": 87840,
+      "approvedCard": "ППО-25_ПГ0,5/14_СЖ-ППО-25-1,6-ДИ-О-5 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/14_СЖ-ППО-25-1,6-ДИ-О-5 ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:15",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ДИ-О-5",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "15",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ-ДИ-О-5 ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-СУ-ДИ-О-5 ПГ0,5",
+      "slug": "szh-ppo-25-1-6-su-di-o-5-pg05-15",
+      "groupId": "ppo25-pg05",
+      "execution": "СУ-ДИ-О-5",
+      "viscosityCst": null,
+      "priceRub": 113094,
+      "approvedCard": "ППО-25_ПГ0,5/15_СЖ-ППО-25-1,6-СУ-ДИ-О-5 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/15_СЖ-ППО-25-1,6-СУ-ДИ-О-5 ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:16",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-ДИ-О-5",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "16",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ-УСС-Б-70 ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-СУ-УСС-Б-70 ПГ0,5",
+      "slug": "szh-ppo-25-1-6-su-uss-b-70-pg05-16",
+      "groupId": "ppo25-pg05",
+      "execution": "СУ-УСС-Б-70",
+      "viscosityCst": null,
+      "priceRub": 113094,
+      "approvedCard": "ППО-25_ПГ0,5/16_СЖ-ППО-25-1,6-СУ-УСС-Б-70 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/16_СЖ-ППО-25-1,6-СУ-УСС-Б-70 ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:17",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-УСС-Б-70",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "17",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-ДИ-О-5-КУП-30 ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-ДИ-О-5-КУП-30 ПГ0,5",
+      "slug": "szh-ppo-25-1-6-di-o-5-kup-30-pg05-17",
+      "groupId": "ppo25-pg05",
+      "execution": "ДИ-О-5-КУП-30",
+      "viscosityCst": null,
+      "priceRub": 156160,
+      "approvedCard": "ППО-25_ПГ0,5/17_СЖ-ППО-25-1,6-ДИ-О-5-КУП-30 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/17_СЖ-ППО-25-1,6-ДИ-О-5-КУП-30 ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:18",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ДИ-О-5-КУП-30",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "18",
+      "article": null,
+      "fullName": "СЖ-ППО-25-1,6-СУ-ДИ-О-5-КУП-30 ПГ0,5",
+      "model": "СЖ-ППО-25-1,6-СУ-ДИ-О-5-КУП-30 ПГ0,5",
+      "slug": "szh-ppo-25-1-6-su-di-o-5-kup-30-pg05-18",
+      "groupId": "ppo25-pg05",
+      "execution": "СУ-ДИ-О-5-КУП-30",
+      "viscosityCst": null,
+      "priceRub": 178120,
+      "approvedCard": "ППО-25_ПГ0,5/18_СЖ-ППО-25-1,6-СУ-ДИ-О-5-КУП-30 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-25_ПГ0,5/18_СЖ-ППО-25-1,6-СУ-ДИ-О-5-КУП-30 ПГ0,5.png",
+      "groupFactsId": "ppo25-pg05",
+      "sourceRefs": [
+        "registry-csv:19",
+        "docx-ppo25-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-ДИ-О-5-КУП-30",
+      "description": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo25-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "19",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ (0,55-1,1сСт) ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-СУ (0,55-1,1сСт) ПГ0,25",
+      "slug": "szh-ppo-40-0-6-su-055-11-pg025-19",
+      "groupId": "ppo40-pg025",
+      "execution": "СУ (0,55-1,1сСт)",
+      "viscosityCst": "0,55-1,1",
+      "priceRub": 107360,
+      "approvedCard": "ППО-40_ПГ0,25/19_СЖ-ППО-40-0,6-СУ (0,55-1,1сСт) ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/19_СЖ-ППО-40-0,6-СУ (0,55-1,1сСт) ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:20",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (0,55-1,1сСт)",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "20",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ (1,1-6,0сСт) ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-СУ (1,1-6,0сСт) ПГ0,25",
+      "slug": "szh-ppo-40-0-6-su-11-60-pg025-20",
+      "groupId": "ppo40-pg025",
+      "execution": "СУ (1,1-6,0сСт)",
+      "viscosityCst": "1,1-6,0",
+      "priceRub": 107360,
+      "approvedCard": "ППО-40_ПГ0,25/20_СЖ-ППО-40-0,6-СУ (1,1-6,0сСт) ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/20_СЖ-ППО-40-0,6-СУ (1,1-6,0сСт) ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:21",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (1,1-6,0сСт)",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "21",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ (6,0-60,0сСт) ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-СУ (6,0-60,0сСт) ПГ0,25",
+      "slug": "szh-ppo-40-0-6-su-60-600-pg025-21",
+      "groupId": "ppo40-pg025",
+      "execution": "СУ (6,0-60,0сСт)",
+      "viscosityCst": "6,0-60,0",
+      "priceRub": 107360,
+      "approvedCard": "ППО-40_ПГ0,25/21_СЖ-ППО-40-0,6-СУ (6,0-60,0сСт) ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/21_СЖ-ППО-40-0,6-СУ (6,0-60,0сСт) ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:22",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (6,0-60,0сСт)",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "22",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-ЛУЧ-03 ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-ЛУЧ-03 ПГ0,25",
+      "slug": "szh-ppo-40-0-6-luch-03-pg025-22",
+      "groupId": "ppo40-pg025",
+      "execution": "ЛУЧ-03",
+      "viscosityCst": null,
+      "priceRub": 152500,
+      "approvedCard": "ППО-40_ПГ0,25/22_СЖ-ППО-40-0,6-ЛУЧ-03 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/22_СЖ-ППО-40-0,6-ЛУЧ-03 ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:23",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ЛУЧ-03",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "23",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-ДИ-О-5 ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-ДИ-О-5 ПГ0,25",
+      "slug": "szh-ppo-40-0-6-di-o-5-pg025-23",
+      "groupId": "ppo40-pg025",
+      "execution": "ДИ-О-5",
+      "viscosityCst": null,
+      "priceRub": 152500,
+      "approvedCard": "ППО-40_ПГ0,25/23_СЖ-ППО-40-0,6-ДИ-О-5 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/23_СЖ-ППО-40-0,6-ДИ-О-5 ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:24",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ДИ-О-5",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "24",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ-ДИ-О-5 ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-СУ-ДИ-О-5 ПГ0,25",
+      "slug": "szh-ppo-40-0-6-su-di-o-5-pg025-24",
+      "groupId": "ppo40-pg025",
+      "execution": "СУ-ДИ-О-5",
+      "viscosityCst": null,
+      "priceRub": 165737,
+      "approvedCard": "ППО-40_ПГ0,25/24_СЖ-ППО-40-0,6-СУ-ДИ-О-5 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/24_СЖ-ППО-40-0,6-СУ-ДИ-О-5 ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:25",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-ДИ-О-5",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "25",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ-УСС-Б-70 ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-СУ-УСС-Б-70 ПГ0,25",
+      "slug": "szh-ppo-40-0-6-su-uss-b-70-pg025-25",
+      "groupId": "ppo40-pg025",
+      "execution": "СУ-УСС-Б-70",
+      "viscosityCst": null,
+      "priceRub": 165737,
+      "approvedCard": "ППО-40_ПГ0,25/25_СЖ-ППО-40-0,6-СУ-УСС-Б-70 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/25_СЖ-ППО-40-0,6-СУ-УСС-Б-70 ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:26",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-УСС-Б-70",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "26",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-ДИ-О-5-КУП-30 ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-ДИ-О-5-КУП-30 ПГ0,25",
+      "slug": "szh-ppo-40-0-6-di-o-5-kup-30-pg025-26",
+      "groupId": "ppo40-pg025",
+      "execution": "ДИ-О-5-КУП-30",
+      "viscosityCst": null,
+      "priceRub": 224114,
+      "approvedCard": "ППО-40_ПГ0,25/26_СЖ-ППО-40-0,6-ДИ-О-5-КУП-30 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/26_СЖ-ППО-40-0,6-ДИ-О-5-КУП-30 ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:27",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ДИ-О-5-КУП-30",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "27",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ-ДИ-О-5-КУП-30 ПГ0,25",
+      "model": "СЖ-ППО-40-0,6-СУ-ДИ-О-5-КУП-30 ПГ0,25",
+      "slug": "szh-ppo-40-0-6-su-di-o-5-kup-30-pg025-27",
+      "groupId": "ppo40-pg025",
+      "execution": "СУ-ДИ-О-5-КУП-30",
+      "viscosityCst": null,
+      "priceRub": 234850,
+      "approvedCard": "ППО-40_ПГ0,25/27_СЖ-ППО-40-0,6-СУ-ДИ-О-5-КУП-30 ПГ0,25.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,25/27_СЖ-ППО-40-0,6-СУ-ДИ-О-5-КУП-30 ПГ0,25.png",
+      "groupFactsId": "ppo40-pg025",
+      "sourceRefs": [
+        "registry-csv:28",
+        "docx-ppo40-pg025"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-ДИ-О-5-КУП-30",
+      "description": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg025",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,25",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "28",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ (0,55-1,1сСт) ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-СУ (0,55-1,1сСт) ПГ0,5",
+      "slug": "szh-ppo-40-0-6-su-055-11-pg05-28",
+      "groupId": "ppo40-pg05",
+      "execution": "СУ (0,55-1,1сСт)",
+      "viscosityCst": "0,55-1,1",
+      "priceRub": 97600,
+      "approvedCard": "ППО-40_ПГ0,5/28_СЖ-ППО-40-0,6-СУ (0,55-1,1сСт) ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/28_СЖ-ППО-40-0,6-СУ (0,55-1,1сСт) ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:29",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (0,55-1,1сСт)",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "29",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ (1,1-6,0сСт) ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-СУ (1,1-6,0сСт) ПГ0,5",
+      "slug": "szh-ppo-40-0-6-su-11-60-pg05-29",
+      "groupId": "ppo40-pg05",
+      "execution": "СУ (1,1-6,0сСт)",
+      "viscosityCst": "1,1-6,0",
+      "priceRub": 97600,
+      "approvedCard": "ППО-40_ПГ0,5/29_СЖ-ППО-40-0,6-СУ (1,1-6,0сСт) ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/29_СЖ-ППО-40-0,6-СУ (1,1-6,0сСт) ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:30",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (1,1-6,0сСт)",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "30",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ (6,0-60,0сСт) ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-СУ (6,0-60,0сСт) ПГ0,5",
+      "slug": "szh-ppo-40-0-6-su-60-600-pg05-30",
+      "groupId": "ppo40-pg05",
+      "execution": "СУ (6,0-60,0сСт)",
+      "viscosityCst": "6,0-60,0",
+      "priceRub": 97600,
+      "approvedCard": "ППО-40_ПГ0,5/30_СЖ-ППО-40-0,6-СУ (6,0-60,0сСт) ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/30_СЖ-ППО-40-0,6-СУ (6,0-60,0сСт) ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:31",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ (6,0-60,0сСт)",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages"
+      ]
+    },
+    {
+      "number": "31",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-ЛУЧ-03 ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-ЛУЧ-03 ПГ0,5",
+      "slug": "szh-ppo-40-0-6-luch-03-pg05-31",
+      "groupId": "ppo40-pg05",
+      "execution": "ЛУЧ-03",
+      "viscosityCst": null,
+      "priceRub": 137250,
+      "approvedCard": "ППО-40_ПГ0,5/31_СЖ-ППО-40-0,6-ЛУЧ-03 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/31_СЖ-ППО-40-0,6-ЛУЧ-03 ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:32",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ЛУЧ-03",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "32",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-ДИ-О-5 ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-ДИ-О-5 ПГ0,5",
+      "slug": "szh-ppo-40-0-6-di-o-5-pg05-32",
+      "groupId": "ppo40-pg05",
+      "execution": "ДИ-О-5",
+      "viscosityCst": null,
+      "priceRub": 137250,
+      "approvedCard": "ППО-40_ПГ0,5/32_СЖ-ППО-40-0,6-ДИ-О-5 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/32_СЖ-ППО-40-0,6-ДИ-О-5 ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:33",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ДИ-О-5",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "33",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ-ДИ-О-5 ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-СУ-ДИ-О-5 ПГ0,5",
+      "slug": "szh-ppo-40-0-6-su-di-o-5-pg05-33",
+      "groupId": "ppo40-pg05",
+      "execution": "СУ-ДИ-О-5",
+      "viscosityCst": null,
+      "priceRub": 150600,
+      "approvedCard": "ППО-40_ПГ0,5/33_СЖ-ППО-40-0,6-СУ-ДИ-О-5 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/33_СЖ-ППО-40-0,6-СУ-ДИ-О-5 ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:34",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-ДИ-О-5",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "34",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ-УСС-Б-70 ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-СУ-УСС-Б-70 ПГ0,5",
+      "slug": "szh-ppo-40-0-6-su-uss-b-70-pg05-34",
+      "groupId": "ppo40-pg05",
+      "execution": "СУ-УСС-Б-70",
+      "viscosityCst": null,
+      "priceRub": 150600,
+      "approvedCard": "ППО-40_ПГ0,5/34_СЖ-ППО-40-0,6-СУ-УСС-Б-70 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/34_СЖ-ППО-40-0,6-СУ-УСС-Б-70 ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:35",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-УСС-Б-70",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "35",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-ДИ-О-5-КУП-30 ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-ДИ-О-5-КУП-30 ПГ0,5",
+      "slug": "szh-ppo-40-0-6-di-o-5-kup-30-pg05-35",
+      "groupId": "ppo40-pg05",
+      "execution": "ДИ-О-5-КУП-30",
+      "viscosityCst": null,
+      "priceRub": 203740,
+      "approvedCard": "ППО-40_ПГ0,5/35_СЖ-ППО-40-0,6-ДИ-О-5-КУП-30 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/35_СЖ-ППО-40-0,6-ДИ-О-5-КУП-30 ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:36",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "ДИ-О-5-КУП-30",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    },
+    {
+      "number": "36",
+      "article": null,
+      "fullName": "СЖ-ППО-40-0,6-СУ-ДИ-О-5-КУП-30 ПГ0,5",
+      "model": "СЖ-ППО-40-0,6-СУ-ДИ-О-5-КУП-30 ПГ0,5",
+      "slug": "szh-ppo-40-0-6-su-di-o-5-kup-30-pg05-36",
+      "groupId": "ppo40-pg05",
+      "execution": "СУ-ДИ-О-5-КУП-30",
+      "viscosityCst": null,
+      "priceRub": 213500,
+      "approvedCard": "ППО-40_ПГ0,5/36_СЖ-ППО-40-0,6-СУ-ДИ-О-5-КУП-30 ПГ0,5.png",
+      "mainImage": "assets/products/ППО-40_ПГ0,5/36_СЖ-ППО-40-0,6-СУ-ДИ-О-5-КУП-30 ПГ0,5.png",
+      "groupFactsId": "ppo40-pg05",
+      "sourceRefs": [
+        "registry-csv:37",
+        "docx-ppo40-pg05"
+      ],
+      "shortName": null,
+      "category": "Счетчики учета нефтепродуктов",
+      "modification": "СУ-ДИ-О-5-КУП-30",
+      "description": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "description"
+      },
+      "purpose": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "purpose"
+      },
+      "medium": null,
+      "technicalSpecifications": {
+        "sourceFactsId": "ppo40-pg05",
+        "field": "technicalTable"
+      },
+      "errorClassOrLimit": "0,5",
+      "variants": null,
+      "configuration": null,
+      "advantages": null,
+      "compatibility": null,
+      "seoTitle": null,
+      "seoDescription": null,
+      "additionalImages": [],
+      "unknownFields": [
+        "article",
+        "shortName",
+        "medium",
+        "variants",
+        "configuration",
+        "advantages",
+        "compatibility",
+        "seoTitle",
+        "seoDescription",
+        "additionalImages",
+        "viscosityCst"
+      ]
+    }
+  ]
+}

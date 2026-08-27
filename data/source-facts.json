@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "extractionPolicy": "Only paragraph text, table cells and hyperlink relationship targets present in the four local DOCX files are recorded.",
+  "groups": [
+    {
+      "id": "ppo25-pg025",
+      "sourceDocx": "счетчик СЖ-ППО-25-1,6-СУ ПГ 0,25.docx",
+      "documentTitle": "СЖ-ППО-25-1,6-СУ ПГ 0,25",
+      "category": "Счетчики учета нефтепродуктов",
+      "manufacturer": "АО ПРОМПРИБОР Россия г.Ливны",
+      "officialDealer": "ООО СервисПромМаш",
+      "purpose": "Счетчики жидкости с овальными шестернями ППО предназначены для измерения объемного количества нефтепродуктов.",
+      "description": [
+        "Счетчики жидкости ППО внесены в Госреестр Средств измерений под номером 59916-15, имеют сертификат типа средств измерения и свидетельство о первичной поверке.",
+        "Счетчики жидкости с овальными шестернями ППО предназначены для измерения объемного количества нефтепродуктов. Комплектуются Механическим счётным устройством СУ."
+      ],
+      "technicalTable": {"conditionalPassageMm":"25","workingPressureMpa":"1,6","workingTemperatureC":"-40....+50","viscosityRangesCst":"Бензин (0,55-1,1 сСт) Керосин, Дт (1,1-6,0 сСт) Масло 6,0-60,0 сСт) Масло (60,0-300 сСт)","accuracyClassPercent":"0,25","flowM3h":"0,72-7,2","measurementErrorsPercent":"0,15 0,25 0,5","massKg":"8","packageDimensionsCm":"25*25*40"},
+      "hyperlinks": ["https://store.prompribor.ru/catalog/szh-ppo_23298/szh-ppo-25-1_6-su_28650/","https://vinso-azs.ru/schetchik-zhidkosti-szh-ppo-25-16-su-dlya-topliva","https://economazs.ru/schyotchik-ppo-25-dlya-dizelnogo-topliva-i-benzina-.html","https://www.ozon.ru/product/schetchik-topliva-ppo-25-1-6-su-1658465409/?at=1sGi1YTXcHSFS9VN7XVjIyZranoMOjFF&sh=Z23zXacyMA","https://petrocontrol.ru/product/szh-ppo-25-1-6-su-pg0-5/","https://aztgrup.ru/product/schetchik-zhidkosti-szh-ppo-25-16-su-dlya-topliva/","https://artaz.ru/products/schetchik-topliva-mehanicheskij-83-100-lm-16-bar-ppo-25-16-su-60-60-05-proveryaemyj","https://en9.ru/schetchiri/schetchiki-benzina/schetchik-zhidkosti-ppo-25-1-6-s-poverkoy-2","https://www.promizmeritel.ru/produktsiya/schetchiki-zhidkosti/299-schetchiki-s-ovalnymi-shesternyami-ppo-25","https://www.azsk74.ru/schetchiki2014-08-01-08-22-09/schetchiki-topliva/schetchik-zhidkosti-ppo-25-kl-tochn-0-25-detail.html"]
+    },
+    {
+      "id": "ppo25-pg05",
+      "sourceDocx": "счетчик СЖ-ППО-25-1,6-СУ ПГ 0,5.docx",
+      "documentTitle": "СЖ-ППО-25-1,6-СУ ПГ 0,5",
+      "category": "Счетчики учета нефтепродуктов",
+      "manufacturer": "АО ПРОМПРИБОР Россия г.Ливны",
+      "officialDealer": "ООО СервисПромМаш",
+      "purpose": "Счетчики жидкости с овальными шестернями ППО предназначены для измерения объемного количества нефтепродуктов.",
+      "description": ["Счетчики жидкости ППО внесены в Госреестр Средств измерений под номером 59916-15, имеют сертификат типа средств измерения и свидетельство о первичной поверке.","Счетчики жидкости с овальными шестернями ППО предназначены для измерения объемного количества нефтепродуктов. Комплектуются Механическим счётным устройством СУ."],
+      "technicalTable": {"conditionalPassageMm":"25","workingPressureMpa":"1,6","workingTemperatureC":"-40....+50","viscosityRangesCst":"Бензин (0,55-1,1 сСт) Керосин, Дт (1,1-6,0 сСт) Масло 6,0-60,0 сСт) Масло (60,0-300 сСт)","accuracyClassPercent":"0,5","flowM3h":"0,72-7,2","measurementErrorsPercent":"0,15-0,5","massKg":"8","packageDimensionsCm":"25*25*40"},
+      "hyperlinks": ["https://store.prompribor.ru/catalog/szh-ppo_23298/szh-ppo-25-1_6-su_28650/","https://vinso-azs.ru/schetchik-zhidkosti-szh-ppo-25-16-su-dlya-topliva","https://economazs.ru/schyotchik-ppo-25-dlya-dizelnogo-topliva-i-benzina-.html","https://www.ozon.ru/product/schetchik-topliva-ppo-25-1-6-su-1658465409/?at=1sGi1YTXcHSFS9VN7XVjIyZranoMOjFF&sh=Z23zXacyMA","https://petrocontrol.ru/product/szh-ppo-25-1-6-su-pg0-5/","https://aztgrup.ru/product/schetchik-zhidkosti-szh-ppo-25-16-su-dlya-topliva/","https://artaz.ru/products/schetchik-topliva-mehanicheskij-83-100-lm-16-bar-ppo-25-16-su-60-60-05-proveryaemyj","https://en9.ru/schetchiri/schetchiki-benzina/schetchik-zhidkosti-ppo-25-1-6-s-poverkoy-2","https://www.promizmeritel.ru/produktsiya/schetchiki-zhidkosti/299-schetchiki-s-ovalnymi-shesternyami-ppo-25","https://www.azsk74.ru/schetchiki2014-08-01-08-22-09/schetchiki-topliva/schetchik-zhidkosti-ppo-25-kl-tochn-0-25-detail.html"]
+    },
+    {
+      "id": "ppo40-pg025",
+      "sourceDocx": "счетчик СЖ-ППО-40-0,6-СУ ПГ 0,25.docx",
+      "documentTitle": "СЖ-ППО-40-0,6-СУ ПГ 0,25",
+      "category": "Счетчики учета нефтепродуктов",
+      "manufacturer": "АО ПРОМПРИБОР Россия г.Ливны",
+      "officialDealer": "ООО СервисПромМаш",
+      "purpose": "Счетчики жидкости с овальными шестернями ППО предназначены для измерения объемного количества нефтепродуктов.",
+      "description": ["Счетчики жидкости ППО внесены в Госреестр Средств измерений под номером 59916-15, имеют сертификат типа средств измерения и свидетельство о первичной поверке.","Счетчики жидкости с овальными шестернями ППО предназначены для измерения объемного количества нефтепродуктов. Комплектуются Механическим счётным устройством СУ."],
+      "technicalTable": {"conditionalPassageMm":"40","workingPressureMpa":"0,6","workingTemperatureC":"-40 +50","viscosityRangesCst":"Бензин (0,55-1,1 сСт) Керосин, Дт (1,1-6,0 сСт) Масло 6,0-60,0 сСт) Мазут, Масло (60,0-300 сСт)","accuracyClassPercent":"0,25","flowM3h":"2,5-25","measurementErrorsPercent":"0,15 0,25 0,5","massKg":"20","packageDimensionsCm":"30*30*40"},
+      "hyperlinks": ["https://vinso-azs.ru/schetchik-zhidkosti-ppo-40-06","https://economazs.ru/schyotchik-ppo-40-dlya-dizelnogo-topliva-i-benzina-.html","https://www.ozon.ru/product/schetchik-topliva-ppo-40-0-6-su-1658454234/?at=1umi1Wg2E-xI6txLxqA6XbqsldMhhtbX&sh=Z23zXap9Zw","https://aztgrup.ru/product/schetchik-zhidkosti-szh-ppo-40-06-su-dlya-topliva/","https://artaz.ru/products/schetchik-topliva-mehanicheskij-416-4166-lm-6-bar-ppo-40-06-su-11-60-05-proveryaemyj","https://en9.ru/schetchiri/schetchiki-benzina/schetchik-zhidkosti-ppo-40-0-6-s-poverkoy-2","https://store.prompribor.ru/catalog/szh-ppo_23298/szh-ppo-40-0_6-su_28630/","https://www.azsk74.ru/schetchiki2014-08-01-08-22-09/schetchiki-topliva/schetchik-zhidkosti-ppo-40-kl-tochn-0-5-detail.html"]
+    },
+    {
+      "id": "ppo40-pg05",
+      "sourceDocx": "счетчик СЖ-ППО-40-0,6-СУ ПГ 0,5.docx",
+      "documentTitle": "СЖ-ППО-40-0,6-СУ ПГ 0,5",
+      "category": "Счетчики учета нефтепродуктов",
+      "manufacturer": "АО ПРОМПРИБОР Россия г.Ливны",
+      "officialDealer": "ООО СервисПромМаш",
+      "purpose": "Счетчики жидкости с овальными шестернями ППО предназначены для измерения объемного количества нефтепродуктов.",
+      "description": ["Счетчики жидкости ППО внесены в Госреестр Средств измерений под номером 59916-15, имеют сертификат типа средств измерения и свидетельство о первичной поверке.","Счетчики жидкости с овальными шестернями ППО предназначены для измерения объемного количества нефтепродуктов. Комплектуются Механическим счётным устройством СУ."],
+      "technicalTable": {"conditionalPassageMm":"40","workingPressureMpa":"0,6","workingTemperatureC":"-40 +50","viscosityRangesCst":"Бензин (0,55-1,1 сСт) Керосин, Дт (1,1-6,0 сСт) Масло 6,0-60,0 сСт) Мазут, Масло (60,0-300 сСт)","accuracyClassPercent":"0,5","flowM3h":"2,5-25","measurementErrorsPercent":"0,15 0,25 0,5","massKg":"20","packageDimensionsCm":"30*30*40"},
+      "hyperlinks": ["https://vinso-azs.ru/schetchik-zhidkosti-ppo-40-06","https://economazs.ru/schyotchik-ppo-40-dlya-dizelnogo-topliva-i-benzina-.html","https://www.ozon.ru/product/schetchik-topliva-ppo-40-0-6-su-1658454234/?at=1umi1Wg2E-xI6txLxqA6XbqsldMhhtbX&sh=Z23zXap9Zw","https://aztgrup.ru/product/schetchik-zhidkosti-szh-ppo-40-06-su-dlya-topliva/","https://artaz.ru/products/schetchik-topliva-mehanicheskij-416-4166-lm-6-bar-ppo-40-06-su-11-60-05-proveryaemyj","https://en9.ru/schetchiri/schetchiki-benzina/schetchik-zhidkosti-ppo-40-0-6-s-poverkoy-2","https://store.prompribor.ru/catalog/szh-ppo_23298/szh-ppo-40-0_6-su_28630/","https://www.azsk74.ru/schetchiki2014-08-01-08-22-09/schetchiki-topliva/schetchik-zhidkosti-ppo-40-kl-tochn-0-5-detail.html"]
+    }
+  ]
+}
