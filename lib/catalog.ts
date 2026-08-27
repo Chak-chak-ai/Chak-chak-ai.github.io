@@ -44,7 +44,19 @@ export function getFacts(groupId: string) {
 }
 
 export function productImage(product: Product) {
-  return `/products/${product.approvedCard}`;
+  const family = product.groupId.startsWith('ppo25-') ? 'ppo25' : 'ppo40';
+  const execution = product.execution;
+
+  let photo = 'su';
+  if (execution === 'ЛУЧ-03') photo = 'luch-03';
+  else if (execution === 'СУ-ДИ-О-5-КУП-30') photo = 'su-di-o-5-kup-30';
+  else if (execution === 'ДИ-О-5-КУП-30') photo = 'di-o-5-kup-30';
+  else if (execution === 'СУ-УСС-Б-70') photo = 'su-uss-b-70';
+  else if (execution === 'СУ-ДИ-О-5') photo = 'su-di-o-5';
+  else if (execution === 'ДИ-О-5') photo = 'di-o-5';
+
+  const extension = photo === 'luch-03' ? 'png' : 'jpg';
+  return `/product-photos/${family}-${photo}.${extension}`;
 }
 
 export function familyForProduct(product: Product): FamilyKey {
