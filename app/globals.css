@@ -497,33 +497,74 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
 
 .site-footer {
   width: 100%;
-  min-height: 220px;
-  padding: 46px max(32px, calc((100vw - 1360px) / 2));
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 34px;
+  padding: 0;
   color: #fff;
   background: var(--ink);
 }
-.footer-topline {
+
+.footer-main {
+  width: min(100% - 64px, 1360px);
+  margin: 0 auto;
+  padding: 72px 0 56px;
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(360px, 4fr) minmax(240px, 3fr);
+  gap: clamp(48px, 6vw, 96px);
+  align-items: start;
+}
+
+.footer-identity { max-width: 390px; }
+.footer-brand {
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  color: #fff;
+}
+.footer-brand img { width: 70px; height: 66px; object-fit: contain; filter: invert(1); }
+.footer-brand span { display: grid; gap: 2px; }
+.footer-brand small { color: #9da3aa; font-size: 11px; font-weight: 600; letter-spacing: .08em; }
+.footer-brand strong { font-size: 18px; line-height: 1.15; }
+.footer-identity > p { max-width: 34ch; margin: 28px 0 0; color: #b9bec5; font-size: 15px; line-height: 1.6; }
+
+.footer-link-columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 40px; }
+.footer-link-group > p { margin: 0 0 20px; color: #8f969e; font-size: 11px; font-weight: 650; letter-spacing: .08em; text-transform: uppercase; }
+.footer-link-group nav { display: grid; gap: 14px; }
+.footer-link-group a { width: fit-content; color: #d8dce1; font-size: 14px; line-height: 1.35; transition: color 180ms ease-out; }
+.footer-link-group a:hover { color: #fff; }
+
+.footer-order { padding-top: 2px; }
+.footer-order > strong { display: block; color: #fff; font-size: 18px; line-height: 1.25; }
+.footer-order > p { margin: 14px 0 0; color: #aeb4bc; font-size: 14px; line-height: 1.55; }
+.footer-order > a {
+  min-height: 52px;
+  margin-top: 24px;
+  padding: 0 18px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 40px;
+  gap: 24px;
+  color: #fff;
+  background: var(--blue);
+  font-size: 14px;
+  font-weight: 650;
+  transition: background 180ms ease-out;
 }
-.footer-topline > p { max-width: 520px; margin: 0; color: #b9bec5; text-align: right; }
-.footer-brand p { margin: 0; color: #fff; font-weight: 650; }
-.footer-brand img { filter: invert(1); }
-.footer-nav {
-  padding-top: 24px;
+.footer-order > a:hover { background: var(--blue-hover); }
+
+.footer-bottom {
+  width: min(100% - 64px, 1360px);
+  min-height: 68px;
+  margin: 0 auto;
   display: flex;
-  flex-wrap: wrap;
-  gap: 18px 34px;
-  border-top: 1px solid #3a3d42;
-  color: #d8dce1;
-  font-size: 13px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  border-top: 1px solid #34383d;
+  color: #858c94;
+  font-size: 12px;
 }
-.footer-nav a:hover { color: #fff; }
+.footer-bottom a { color: #b9bec5; }
+.footer-bottom a:hover { color: #fff; }
 
 .pdp-actions {
   margin-top: 34px;
@@ -562,6 +603,12 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
   .section-heading-row { align-items: flex-start; flex-direction: column; gap: 18px; }
   .request-strip { align-items: flex-start; flex-direction: column; }
   .request-actions { width: 100%; flex-wrap: wrap; }
+  .footer-main { width: min(100% - 40px, 1360px); grid-template-columns: 1fr 1fr; gap: 52px 48px; }
+  .footer-identity { max-width: 100%; }
+  .footer-order { grid-column: 1 / -1; padding-top: 32px; border-top: 1px solid #34383d; }
+  .footer-order > p { max-width: 52ch; }
+  .footer-order > a { max-width: 320px; }
+  .footer-bottom { width: min(100% - 40px, 1360px); }
 }
 
 @media (max-width: 560px) {
@@ -572,9 +619,11 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
   .store-info { grid-template-columns: 1fr; }
   .catalog-direction-main { grid-column: auto; }
   .catalog-direction { min-height: 190px; }
-  .footer-topline { align-items: flex-start; flex-direction: column; }
-  .footer-topline > p { text-align: left; }
-  .footer-nav { display: grid; grid-template-columns: 1fr 1fr; }
+  .footer-main { width: min(100% - 32px, 1360px); padding: 56px 0 44px; grid-template-columns: 1fr; gap: 44px; }
+  .footer-link-columns { gap: 28px; }
+  .footer-order { grid-column: auto; padding-top: 32px; }
+  .footer-order > a { max-width: none; }
+  .footer-bottom { width: min(100% - 32px, 1360px); min-height: 72px; }
   .pdp-actions { grid-template-columns: 1fr; }
   .pdp-question { width: 100%; }
 }
@@ -1240,36 +1289,6 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
   border: 1px solid var(--line-strong);
 }
 
-.site-footer {
-  width: min(100% - 64px, 1360px);
-  min-height: 176px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 1.5fr 1fr;
-  gap: 40px;
-  align-items: center;
-  color: var(--muted);
-  font-size: 13px;
-}
-
-.footer-brand {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-.footer-brand img {
-  width: 58px;
-  height: 54px;
-  object-fit: contain;
-}
-
-.site-footer > a {
-  justify-self: end;
-  color: var(--ink);
-  font-weight: 650;
-}
-
 .pdp-breadcrumbs {
   width: min(100% - 64px, 1360px);
   margin: 0 auto;
@@ -1430,7 +1449,6 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
   .catalog-families,
   .product-group,
   .registry-note,
-  .site-footer,
   .pdp-breadcrumbs,
   .pdp,
   .pdp-details {
@@ -1469,14 +1487,6 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
     max-width: 620px;
   }
 
-  .site-footer {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .site-footer > p {
-    display: none;
-  }
-
   .pdp-copy {
     position: static;
   }
@@ -1488,7 +1498,6 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
   .catalog-families,
   .product-group,
   .registry-note,
-  .site-footer,
   .pdp-breadcrumbs,
   .pdp,
   .pdp-details {
@@ -1584,16 +1593,6 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
     align-items: stretch;
     flex-direction: column;
     padding-block: 68px;
-  }
-
-  .site-footer {
-    min-height: 220px;
-    grid-template-columns: 1fr;
-    align-content: center;
-  }
-
-  .site-footer > a {
-    justify-self: start;
   }
 
   .pdp {
