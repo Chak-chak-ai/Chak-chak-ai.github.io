@@ -31,7 +31,6 @@ export default function Home() {
       <section className="home-catalog" id="selection" aria-labelledby="catalog-title">
         <div className="home-catalog-heading">
           <h2 id="catalog-title">Каталог товаров</h2>
-          <p>Откройте общую категорию — весь ассортимент появится сразу на этой странице. ППО-25 и ППО-40 доступны также отдельными маршрутами.</p>
         </div>
 
         <CategoryExplorer />
