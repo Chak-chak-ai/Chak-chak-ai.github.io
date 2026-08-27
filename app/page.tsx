@@ -20,7 +20,6 @@ export default function Home() {
           <div className="hero-decor hero-decor-top" aria-hidden="true"><i /><i /><i /><i /><i /></div>
           <div className="product-stage"><img src="/ppo-25-approved.png" alt="Счётчик жидкости СЖ-ППО-25" /></div>
           <div className="hero-decor hero-decor-bottom" aria-hidden="true"><i /><i /><i /><i /></div>
-          <figcaption>СЖ-ППО · счётчик с овальными шестернями</figcaption>
         </figure>
       </section>
 

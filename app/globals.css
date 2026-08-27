@@ -129,15 +129,6 @@ a:focus-visible { outline: 3px solid var(--focus); outline-offset: 4px; }
   display: block;
   mix-blend-mode: multiply;
 }
-.hero-product figcaption {
-  position: absolute;
-  right: 18px;
-  bottom: 18px;
-  color: var(--muted);
-  font-size: 10px;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-}
 .hero-decor { position: absolute; z-index: 2; display: flex; gap: 7px; pointer-events: none; }
 .hero-decor i { width: 3px; height: 3px; display: block; background: var(--blue); }
 .hero-decor-top { top: 58px; right: 36px; }
@@ -364,7 +355,6 @@ button.department-card { width: 100%; padding: 0; color: inherit; font: inherit;
   .button-primary { width: 100%; }
   .hero-product { height: 330px; }
   .product-stage img { width: 500px; left: 50%; top: -72px; transform: translateX(-48%); }
-  .hero-product figcaption { right: 0; bottom: 12px; font-size: 9px; }
   .selection { padding-bottom: 88px; }
   .selection-heading { min-height: 70px; align-items: flex-start; justify-content: center; flex-direction: column; gap: 4px; }
   .selection h2 { font-size: 17px; }
